@@ -13,7 +13,8 @@
 
 1. Склонируйте репозиторий или загрузите проект на свой компьютер с помощью команды  
 ```bash  
-git clone https://github.com/AlTROn41/MuseumAPI_Project.git  
+git clone https://github.com/AlTROn41/Example-of-API-usage-VK-Telegram-Google-Sheet-and-museum.git
+
 ```  
 
 ## Использование  
